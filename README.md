@@ -1,6 +1,6 @@
 # PageRanking
 
-Replicate the Google's Page Ranking algorithm. This is based upon the inlinks and outlinks present in the website and 
+Replicated Google's Page Ranking algorithm. This is based upon the inlinks and outlinks present in the website and 
 ranks accordingly. For further details of the algorithm go to **"References"**
 
 **How to run**
